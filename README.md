@@ -1,0 +1,2 @@
+# GAME
+The "Guess the Number" is a simple game where the computer randomly selects a number, and the player has to guess it within a certain range (e.g., 1 to 100). After each guess, the computer provides feedback to help the player: whether the guess is high, low, or correct.
